@@ -6,5 +6,5 @@ tags={
 	"Scripted GUI"
 }
 picture="thumb.jpg"
-supported_version="1.11.*"
+supported_version="1.13.*"
 remote_file_id="1348125496"
